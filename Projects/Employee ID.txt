@@ -1,0 +1,7 @@
+Employee ID
+Employee Name
+Employee Address
+Mobile Number
+Email address:
+Aadhaar or Government ID:
+Department:
